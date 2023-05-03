@@ -1,6 +1,9 @@
 ## Hello World 🕺
 
-🇫🇷 Based in Paris, France
+❯ 🏡 Website           coco-io.vercel.app
+❯ 📬 Email             corentindevjs@gmail.com
+
+
 <!--
 **filoupegase/filoupegase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get youstarted:
