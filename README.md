@@ -1,5 +1,5 @@
 ## Hello World 🕺
 ```
-❯ 🏡 Website           corent.in.vercel.app
+❯ 🏡 Website           coming soon
 ❯ 📬 Email             corentindevjs@gmail.com
 ```
